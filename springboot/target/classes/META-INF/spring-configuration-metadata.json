@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "com.example.jwt.JwtUtils",
+      "sourceType": "com.example.jwt.JwtUtils"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
